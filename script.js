@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzPA7i_zEYbHlheUySvJy8YYM8tHv1O2a519vu-vVTAfN9cpc_kPQ76eLkJ8Mcov3aE/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxrAidIc-7wMVNva8UMJ70cTS2IjXCp5Sq1XmGJydJlZW97puoaMlV95B6eMf3DMMWl/exec';
 let registros = [];
 
 // Elementos DOM
